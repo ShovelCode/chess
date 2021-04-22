@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Black</key>
+	<string>Computer</string>
+	<key>BlackType</key>
+	<string>program</string>
+	<key>City</key>
+	<string>?</string>
+	<key>Country</key>
+	<string>?</string>
+	<key>Event</key>
+	<string>Casual Game</string>
+	<key>Holding</key>
+	<string>[QBBNNRRPPPPPPPP] [QBBNNPPPPPPP]</string>
+	<key>MBCAlternateVoice</key>
+	<string>com.apple.speech.synthesis.voice.Victoria</string>
+	<key>MBCBoardAngle</key>
+	<real>60</real>
+	<key>MBCBoardSpin</key>
+	<real>180</real>
+	<key>MBCBoardStyle</key>
+	<string>Metal</string>
+	<key>MBCListenForMoves</key>
+	<true/>
+	<key>MBCPieceStyle</key>
+	<string>Marble</string>
+	<key>MBCSearchTime</key>
+	<real>4</real>
+	<key>MBCShowGameLog</key>
+	<true/>
+	<key>MBCSpeakHumanMoves</key>
+	<false/>
+	<key>MBCSpeakMoves</key>
+	<false/>
+	<key>Moves</key>
+	<string>d2d4
+d7d6
+e2e4
+g8f6
+b1c3
+g7g6
+f2f4
+f8g7
+g1f3
+c7c5
+d4c5
+d8a5
+d1d4
+d6c5
+f1b5
+b8d7
+d4a4
+a5b4
+e4e5
+f6d5
+a2a3
+d5c3
+b5d7
+c8d7
+a4d7
+e8d7
+a3b4
+c3e4
+b4c5
+e4c5
+c1e3
+h8c8
+e1g1
+d7e8
+a1a3
+a7a6
+f3d4
+g6g5
+f1a1
+c5d7
+a3b3
+b7b5
+g2g3
+g5f4
+g3f4
+f7f6
+e5e6
+d7c5
+b3b4
+c5b7
+c2c4
+c8c4
+b4b5
+b7d8
+b5h5
+f6f5
+h5h7
+g7d4
+e3d4
+d8e6
+h7h8
+e8f7
+h8a8
+c4d4
+a1a5
+d4f4
+a8a7
+e6g5
+b2b3
+g5f3
+g1h1
+f3h4
+a5a1
+f4f3
+a1e1
+h4g6
+e1b1
+f5f4
+a7a6
+e7e5
+b1c1
+g6f8
+c1c7
+f7g8
+a6a1
+f3b3
+a1g1
+g8h8
+c7c8
+h8h7
+c8f8
+b3e3
+f8f7
+h7h6
+f7f6
+h6h7
+f6e6
+e3d3
+e6e5
+d3h3
+e5f5
+f4f3
+f5f7
+h7h6
+f7f6
+h6h7
+g1d1
+h3h5
+d1d7
+h7g8
+f6f3
+h5g5
+f3f7
+g5g4
+f7h7
+g4g6
+h2h4
+g6d6
+d7g7
+g8f8
+g7a7
+f8g8
+a7g7
+g8f8
+g7c7
+f8g8
+h4h5
+d6d1
+h1g2
+d1d2
+g2f3
+d2d3
+f3e4
+d3g3
+h7d7
+g8h8
+d7h7
+h8g8
+e4f5
+g3b3
+c7g7
+g8f8
+h5h6
+b3b5
+f5g4
+b5b4
+g4f3
+b4b3
+f3e2
+b3b2
+e2d1
+b2b1
+d1c2
+b1c1
+c2c1
+f8e8
+g7g8
+</string>
+	<key>Position</key>
+	<string>4k1R1/7R/7P/8/8/8/8/2K5 b - - 2 79</string>
+	<key>Result</key>
+	<string>1-0</string>
+	<key>StartDate</key>
+	<string>2021.04.21</string>
+	<key>StartTime</key>
+	<string>21:48:29</string>
+	<key>Variant</key>
+	<string>normal</string>
+	<key>White</key>
+	<string>Computer</string>
+	<key>WhiteType</key>
+	<string>program</string>
+</dict>
+</plist>
